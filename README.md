@@ -5,10 +5,6 @@ obtained at
 
 https://zenodo.org/record/3838993
 
-or
-
-https://www.avoindata.fi/data/dataset/sparse-vibrometer-data
-
 Instructions: 
 
 - Extract the data zip file (for object 1 or 2) and copy the matlab 

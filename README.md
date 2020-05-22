@@ -3,6 +3,10 @@ Experimental sparse vibrometer data for validating inversion methods.
 This repository includes the scripts for handling data which can be 
 obtained at 
 
+https://zenodo.org/record/3838993
+
+or
+
 https://www.avoindata.fi/data/dataset/sparse-vibrometer-data
 
 Instructions: 
